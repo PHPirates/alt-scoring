@@ -1,1 +1,1 @@
-# [Season 17 results](http://htmlpreview.github.io/?https://github.com/PHPirates/AFR-scoring/blob/master/AFRS17.htm)
+# [VOR Alt Race results](http://htmlpreview.github.io/?https://github.com/PHPirates/alt-scoring/blob/master/vor_alt_1718.htm)
